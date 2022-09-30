@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m @ChernenkoRuslan
 - 👀 I’m interested in Data analysis and Data Science projects
-- 🌱 I’m currently learning data analysis on Python
+- 🌱 I’m currently learning data analysis and Data Science on Python
 - 💞️ I’m looking to collaborate on Data analysis, Data science and analytical tools development
 - 📫 How to reach me Facebook, LinledIn, Twitter >> Chernenko.Ruslan
 
